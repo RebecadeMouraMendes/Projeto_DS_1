@@ -10,6 +10,7 @@ public class frmTela extends javax.swing.JFrame {
     Conexao con_cliente;
     
     public frmTela() {
+        
         initComponents();
         setLocationRelativeTo(null);
         setResizable(false);
